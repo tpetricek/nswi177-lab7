@@ -1,4 +1,5 @@
 # NSWI177 Lab 7: Basic web page generator for GitHub
+# http://tinyurl.com/nswi177-lab7 
 
 GitHub lets you easily host web pages. For example, if you are a user `tpetricek` and
 have a repository `basic` that contains a branch `gh-pages` with some `.html` files
