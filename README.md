@@ -16,7 +16,7 @@ Let's use this to create a simple web page generator from Markdown files!
 
 1. Somewhere on your machine, create a new repository using `git init`
 2. Add remote using `git remote add git@<yourremote>.git` (using SSH)
-3. Create a `gh-pages` branch and add an empty commit (use ``--allow-empty` for `git commit`)
+3. Create a `gh-pages` branch and add an empty commit (use `--allow-empty` for `git commit`)
 4. Push the branch to GitHub and switch back to `master`
 5. Add some `.md` files with demo text (at least two, not called `index`)
 6. Add `template.html` containing something like:
